@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/103923740/215654457-7685fead-ad50-4772-92bd-c6fbc75be384.png">
 </p>
 
-<h2> 💭 &nbsp;Let's connect and have a chat</h2>
+<h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
 <p align="center">
 <a href="https://www.instagram.com/huunhan196/">
   <img height="50" src="https://user-images.githubusercontent.com/103923740/215658342-ef1d17ec-41db-4ee0-9205-087992fdb1fd.png"/>
@@ -24,18 +24,18 @@ name: Nhan Doan
 located_in: Da Nang, Viet Nam
 current_job: Front-end Developer
 education:
-[
+  [
     "Self-Taught Developer and Designer"
     "Engineer's in Automation of Production"
-]
+  ]
 
 fields_of_interests:
-[
+  [
     "Web Development",
     "UI/UX",
-]
+  ]
 
-2023 Goals: ["Create 20+ Projects, imporve knowledge on current Technologies and learn at least 3 new Technologies"]
+2023 Goals: ["Create 20+ Projects and Learn at least 3 new Technologies"]
 hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
 ```
 
@@ -53,9 +53,6 @@ hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huunhan196&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huunhan196&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
