@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103923740/215698319-1026a2ca-e210-49bf-b41c-8c7174c447e2.png">
+<img src="https://user-images.githubusercontent.com/103923740/215798701-22e09ec9-ff07-4e3e-a7ae-b5ebfa3000ed.svg">
 </p>
 
 <h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
