@@ -16,8 +16,7 @@
 </p>
 
 <h2> 👨‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<p>
-```yaml
+---
 name: Nhan Doan
 located_in: Da Nang, Viet Nam
 current_job: Front-end Developer
@@ -33,8 +32,7 @@ fields_of_interests:
   ]
 goals_2023: ["Create 20+ Projects, imporve knowledge on current Technologies and learn at least 3 new Technologies"]
 hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
-```
-</p>
+---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Been Learning</h2>
 <p align="left">
