@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/103923740/215797496-49efecbe-29b1-44a8-a0a6-453947ea3cc0.gif)
+![](https://user-images.githubusercontent.com/103923740/215820911-3d3670bb-d88b-490f-ba01-8dce682ab340.gif)
 
 <h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
 <p align="center">
