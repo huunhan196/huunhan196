@@ -16,7 +16,8 @@
 </p>
 
 <h2> 👨‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
----
+<p>
+```yaml
 name: Nhan Doan
 located_in: Da Nang, Viet Nam
 current_job: Front-end Developer
@@ -32,7 +33,8 @@ fields_of_interests:
   ]
 goals_2023: ["Create 20+ Projects, imporve knowledge on current Technologies and learn at least 3 new Technologies"]
 hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
----
+```
+</p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Been Learning</h2>
 <p align="left">
@@ -43,6 +45,6 @@ hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
 </p>
