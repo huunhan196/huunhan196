@@ -5,13 +5,13 @@
 <h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
 <p align="center">
 <a href="https://www.instagram.com/huunhan196/">
-  <img height="50" src="https://user-images.githubusercontent.com/103923740/215658342-ef1d17ec-41db-4ee0-9205-087992fdb1fd.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/103923740/215669477-cb6e0101-ded6-492e-bd1b-4f53582f6300.png"/>
 </a>
 <a href="https://www.facebook.com/huunhan196/">
-  <img height="50" src="https://user-images.githubusercontent.com/103923740/215658444-0b460417-776a-4a93-a734-6742d09d7bef.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/103923740/215669407-7825061b-13c2-4898-a5ae-5fd287ccc97f.png"/>
 </a>
 <a href="https://www.youtube.com/@CAPSBand">
-  <img height="50" src="https://user-images.githubusercontent.com/103923740/215658664-30ece3b3-1e46-4b7d-bfbe-c4e4c8f63027.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/103923740/215669283-110b74fd-971a-43e8-8467-4f7904573d70.png"/>
 </a>
 </p>
 
