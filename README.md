@@ -4,19 +4,19 @@
 
 <h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
 <p align="center">
-<a href="https://www.instagram.com/huunhan196/">
+<a href="https://www.instagram.com/huunhan196/" target="_blank">
   <img height="48" src="https://user-images.githubusercontent.com/103923740/215697274-27c95d36-7c47-4550-a6b7-cf93ba5bf254.png"/>
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://www.facebook.com/huunhan196/">
+<a href="https://www.facebook.com/huunhan196/" target="_blank">
   <img height="48" src="https://user-images.githubusercontent.com/103923740/215697634-8de0591e-02d9-4d72-9479-0e5134bc4d6f.png"/>
 </a>
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="https://www.youtube.com/@CAPSBand">
+<a href="https://www.youtube.com/@CAPSBand" target="_blank">
   <img height="48" src="https://user-images.githubusercontent.com/103923740/215697848-0975d4f5-86b1-4a99-9dbc-76d58ae4bf47.png"/>
 </a>
 </p>
