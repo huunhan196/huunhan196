@@ -15,23 +15,30 @@
 </a>
 </p>
 
-<h2> 👨‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 ---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
 name: Nhan Doan
 located_in: Da Nang, Viet Nam
 current_job: Front-end Developer
 education:
-  [
+[
     "Self-Taught Developer and Designer"
     "Engineer's in Automation of Production"
-  ]
+]
+
 fields_of_interests:
-  [
+[
     "Web Development",
     "UI/UX",
-  ]
-goals_2023: ["Create 20+ Projects, imporve knowledge on current Technologies and learn at least 3 new Technologies"]
+]
+
+2023 Goals: ["Create 20+ Projects, imporve knowledge on current Technologies and learn at least 3 new Technologies"]
 hobbies: ["Playing musical instruments", "Poker", "Gaming", "Wanderlust"]
+```
+
 ---
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Been Learning</h2>
