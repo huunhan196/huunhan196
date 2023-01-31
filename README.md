@@ -1,6 +1,4 @@
-<p align="center">
 ![](https://user-images.githubusercontent.com/103923740/215797496-49efecbe-29b1-44a8-a0a6-453947ea3cc0.gif)
-</p>
 
 <h2> 💭 &nbsp;Let's Connect and Have A Chat</h2>
 <p align="center">
